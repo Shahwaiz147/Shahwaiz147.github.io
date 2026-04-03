@@ -13,7 +13,7 @@ Transitioning from the simplicity of Python to the strict world of C# while livi
 
 ---
 
-### 1. The Python Foundation (Semester 1)
+## 1. The Python Foundation (Semester 1)
 * **Simplicity:** Learning Programming Fundamentals with Python felt like a breeze.
 * **Logic Building:** Focused on "how to think" without semicolons.
 * **First Wins:** Building my first basic scripts at UET.
@@ -23,7 +23,7 @@ Transitioning from the simplicity of Python to the strict world of C# while livi
 * **The Pillars:** Inheritance, Polymorphism, and Encapsulation.
 * **Debugging:** Spending hours finding that one missing bracket.
 
-![Desktop View](https://raw.githubusercontent.com/Shahwaiz147/Shahwaiz147/main/_posts/coding-setup.jpg)
+
 _My coding setup at the hostel where the OOP magic (and frustration) happens._
 
 ### 3. Database Schemas in the Hostel
@@ -36,7 +36,7 @@ _My coding setup at the hostel where the OOP magic (and frustration) happens._
 * **Campus Spots:** My favorite corners for a quick study session.
 * **Community:** Bonding over shared lab-report stress.
 
-![Desktop View](https://raw.githubusercontent.com/Shahwaiz147/Shahwaiz147/main/_posts/campus-main.jpg)
+
 _The beautiful (and busy) environment of the Faisalabad Campus._
 
 ### 5. The Hardware vs. Software Battle
@@ -49,7 +49,7 @@ _The beautiful (and busy) environment of the Faisalabad Campus._
 * **Sharing Knowledge:** Teaching Python while they explain DB schemas.
 * **Caffeine Power:** The essential role of chai in solving OOP problems.
 
-![Desktop View](https://raw.githubusercontent.com/Shahwaiz147/Shahwaiz147/main/_posts/hostel-chai.jpg)
+
 _Chai and C#: The fuel that keeps the debugging going late at night._
 
 ### 7. Overcoming the "OOP Wall"
@@ -62,7 +62,7 @@ _Chai and C#: The fuel that keeps the debugging going late at night._
 * **GitHub:** Version controlling my life (and this blog!).
 * **Stack Overflow:** The silent mentor for every UET student.
 
-![Desktop View](https://raw.githubusercontent.com/Shahwaiz147/Shahwaiz147/main/_posts/csharp-project.jpg)
+
 _A sneak peek at my C# project classes and database connections._
 
 ### 9. Future Horizons
