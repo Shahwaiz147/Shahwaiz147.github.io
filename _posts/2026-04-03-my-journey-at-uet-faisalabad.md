@@ -23,7 +23,7 @@ Transitioning from the simplicity of Python to the strict world of C# while livi
 * **The Pillars:** Inheritance, Polymorphism, and Encapsulation.
 * **Debugging:** Spending hours finding that one missing bracket.
 
-![Desktop View](https://raw.githubusercontent.com/Shahwaiz147/Shahwaiz147/main/_posts/coding-setup.jpg)
+![Desktop View](https://raw.githubusercontent.com/Shahwaiz147/my_first_blog/main/_posts/coding-setup.jpg)
  
 _My coding setup at the hostel where the OOP magic (and frustration) happens._
 
